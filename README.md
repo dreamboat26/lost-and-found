@@ -1,3 +1,2 @@
-# Overview
-
-This README file serves as documentation for the experiments conducted on various topics. Each experiment is documented with its purpose, methodology, results, and conclusions.
+# Suno AI
+Suno AI or simply Suno, is a generative artificial intelligence music creation program designed to generate realistic songs that combine vocals and instrumentation.
