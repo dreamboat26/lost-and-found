@@ -1,3 +1,1 @@
-# Overview
-
-This README file serves as documentation for the experiments conducted on various topics. Each experiment is documented with its purpose, methodology, results, and conclusions.
+# Pytorch implementation of "Emerging Properties in Self-Supervised Vision Transformers" (a.k.a. DINO) 
