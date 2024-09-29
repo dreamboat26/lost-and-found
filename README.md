@@ -12,8 +12,6 @@ This project aims to implement the Transformer architecture from scratch using P
 - [Architecture](#architecture)
 - [Training](#training)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
