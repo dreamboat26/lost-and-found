@@ -1,10 +1,3 @@
-##
-# @author Meet Patel <patelmeet2012@gmail.com>
-# @main.py Python file for dataset generation.
-# @desc Created on 2022-11-20 11:45:31 pm
-# @copyright APPI SASU
-##
-
 import glob
 import os
 import string
