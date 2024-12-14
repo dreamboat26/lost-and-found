@@ -1,10 +1,3 @@
-##
-# @author Meet Patel <patelmeet2012@gmail.com>
-# @main.py Helper code for analysing and cleaning the ICDAR 2003 dataset.
-# @desc Created on 2022-11-20 8:23:11 pm
-# @copyright APPI SASU
-##
-
 import glob
 import os
 import shutil
