@@ -1,10 +1,3 @@
-##
-# @author Meet Patel <patelmeet2012@gmail.com>
-# @main.py Misc functions file which contains helper functions.
-# @desc Created on 2022-11-20 6:29:26 pm
-# @copyright APPI SASU
-##
-
 from typing import Dict, List, Tuple, Union
 
 import cv2
