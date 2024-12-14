@@ -1,10 +1,3 @@
-##
-# @author Meet Patel <patelmeet2012@gmail.com>
-# @main.py Entry point python file to detect and track objects.
-# @desc Created on 2022-11-15 6:29:26 pm
-# @copyright APPI SASU
-##
-
 import argparse
 import glob
 import os
