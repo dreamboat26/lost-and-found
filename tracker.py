@@ -1,10 +1,3 @@
-##
-# @author Meet Patel <patelmeet2012@gmail.com>
-# @tracker.py Class to track the detections
-# @desc Created on 2022-11-15 7:28:14 pm
-# @copyright APPI SASU
-##
-
 from typing import List, Tuple, Union
 
 import cv2
