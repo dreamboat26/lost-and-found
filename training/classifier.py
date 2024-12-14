@@ -1,9 +1,3 @@
-##
-# @author Meet Patel <patelmeet2012@gmail.com>
-# @main.py Classifier wrapper for character recognition.
-# @desc Created on 2022-11-21 7:11:03 pm
-# @copyright APPI SASU
-##
 
 import cv2
 import numpy as np
