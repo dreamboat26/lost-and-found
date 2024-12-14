@@ -1,10 +1,3 @@
-##
-# @author Meet Patel <patelmeet2012@gmail.com>
-# @main.py Extra trees classifier training and model saving utility.
-# @desc Created on 2022-11-21 7:11:03 pm
-# @copyright APPI SASU
-##
-
 import pickle
 import string
 
