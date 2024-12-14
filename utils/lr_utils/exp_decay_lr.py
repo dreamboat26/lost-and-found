@@ -1,10 +1,3 @@
-##
-# @author Meet Patel <>
-# @file Description
-# @desc Created on 2023-07-09 10:02:55 pm
-# @copyright MIT License
-#
-
 import sys
 
 import numpy as np
