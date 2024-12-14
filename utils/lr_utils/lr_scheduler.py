@@ -1,9 +1,3 @@
-##
-# @author Meet Patel <>
-# @file Description
-# @desc Created on 2023-07-09 9:55:09 pm
-# @copyright MIT License
-#
 import os
 from abc import ABC, abstractmethod
 
