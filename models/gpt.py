@@ -1,11 +1,3 @@
-"""
- # @ Author: Daniel Lin
- # @ Create Time: 2024-07-06 22:43:40
- # @ Modified by: Daniel Lin
- # @ Modified time: 2024-07-08 21:56:31
- # @ Description:
- """
-
 import torch
 import torch.nn as nn
 
