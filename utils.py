@@ -1,10 +1,3 @@
-##
-# @author Meet Patel <patelmeet2012@gmail.com>
-# @utils.py Miscellaneous utility functions file.
-# @desc Created on 2022-11-15 8:02:01 pm
-# @copyright APPI SASU
-##
-
 import os
 from typing import Dict, List, Tuple, Union
 
