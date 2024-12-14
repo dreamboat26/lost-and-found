@@ -1,11 +1,3 @@
-'''
- # @ Author: Meet Patel
- # @ Create Time: 2024-11-07 19:41:00
- # @ Modified by: Meet Patel
- # @ Modified time: 2024-11-09 09:07:50
- # @ Description:
- '''
-
 from torch import nn
 import torch
 import torchvision.models as models
