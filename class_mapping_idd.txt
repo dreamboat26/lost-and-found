@@ -1,0 +1,11 @@
+motorcycle
+car
+truck
+person
+animal
+rider
+vehicle_fallback
+bus
+bicycle
+caravan
+trailer
