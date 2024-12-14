@@ -1,11 +1,3 @@
-"""
- # @ Author: Meet Patel
- # @ Create Time: 2024-06-30 13:55:42
- # @ Modified by: Meet Patel
- # @ Modified time: 2024-07-20 16:53:09
- # @ Description:
- """
-
 import random
 from typing import Generator, List, Tuple
 
