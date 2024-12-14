@@ -1,11 +1,3 @@
-"""
- # @ Author: Meet Patel
- # @ Create Time: 2024-07-06 23:17:55
- # @ Modified by: Meet Patel
- # @ Modified time: 2024-07-11 21:28:40
- # @ Description:
- """
-
 from typing import Tuple
 
 import torch
