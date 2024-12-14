@@ -1,0 +1,4 @@
+# pyproject.toml
+
+[tool.black]
+line-length = 80  # Set the desired line length for your code
