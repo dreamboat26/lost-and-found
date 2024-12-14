@@ -1,9 +1,3 @@
-##
-# @author Meet Patel <>
-# @file Description
-# @desc Created on 2023-07-09 11:22:10 pm
-# @copyright MIT License
-#
 
 import sys
 
