@@ -1,10 +1,3 @@
-##
-# @author Meet Patel <patelmeet2012@gmail.com>
-# @detector.py Class to infer the detection model
-# @desc Created on 2022-11-15 6:28:14 pm
-# @copyright APPI SASU
-##
-
 import os
 import platform
 import time
