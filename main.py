@@ -1,10 +1,3 @@
-##
-# @author Meet Patel <patelmeet2012@gmail.com>
-# @main.py Main file responsible for doing all OCR related work.
-# @desc Created on 2022-11-19 9:22:39 pm
-# @copyright APPI SASU
-##
-
 import argparse
 import os
 import pickle
