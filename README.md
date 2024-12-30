@@ -1,3 +1,4 @@
-# Overview
+# Graph Neural Network
 
-This README file serves as documentation for the experiments conducted on various topics. Each experiment is documented with its purpose, methodology, results, and conclusions.
+Implemented various GNN examples for use case
+
