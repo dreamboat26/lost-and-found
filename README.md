@@ -1,4 +1,4 @@
-# Ballistic Missiles with Pins
+# Ballistic Missiles with PINNs
 
 ## Overview
 
@@ -6,7 +6,7 @@ This project focuses on the development and analysis of ballistic missiles equip
 
 ## Features
 
-- **Pin-based Guidance**: Utilizes a pin system for improved directional control.
+- **Pin-based Guidance**: Utilizes a PINN system for improved directional control.
 - **Simulation Environment**: Test various missile configurations in a virtual environment.
 - **Data Analysis**: Collect and analyze trajectory data to optimize performance.
 - **User Interface**: Intuitive UI for easy simulation setup and execution.
