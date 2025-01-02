@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on the development and analysis of ballistic missiles equipped with pin-based guidance systems. The goal is to enhance accuracy and reliability in missile trajectories.
+This project focuses on the development and analysis of ballistic missiles equipped with PINN-based guidance systems. The goal is to enhance accuracy and reliability in missile trajectories.
 
 ## Features
 
