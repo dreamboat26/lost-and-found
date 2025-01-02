@@ -12,7 +12,7 @@ The **Euclidean Braid Encoder** is a Python-based program that encodes text mess
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/euclidean-braid-encoder.git
+   git clone https://github.com/dreamboat26/lost-and-found.git
    cd euclidean-braid-encoder
    ```
 
