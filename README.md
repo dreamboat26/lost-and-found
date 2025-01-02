@@ -17,9 +17,8 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ballistic-missiles-with-pins.git
+   git clone https://github.com/dreamboat26/lost-and-found.git
    ```
-
 2. Navigate to the project directory.
 3. Install the required dependencies:
 
