@@ -40,10 +40,7 @@ Vector databases (vectorDBs) are generated within the `data` folder, facilitatin
 ## Running the Project
 To get the project up and running, you'll need to set up your environment and install the necessary dependencies. You can do this in two ways:
 
-### Option 1: Using the Parent Directory Instructions
-Follow the instruction on the [parent directory](https://github.com/Farzad-R/LLM-playground/tree/master) to create an environment and install required libraries. 
-
-### Option 2: Installing Dependencies Individually
+### Installing Dependencies Individually
 If you prefer to install the dependencies individually, run the following command:
 
 ```
@@ -72,10 +69,6 @@ In Terminal 3:
 ```
 python src\app.py
 ```
-
-5. Chat with your documents.
-
-**YouTube video: [Link](https://youtu.be/6dyz2M_UWLw?si=E2Ep0dDNYpixzrBS) **
 
 Extra read:
 - [RAG-GPT video](https://www.youtube.com/watch?v=1FERFfut4Uw&t=676s)
