@@ -4,13 +4,6 @@ This repository demonstrates the process of fine-tuning LLAVA for various tasks,
 
 ---
 
-## Video Explanation: 
-A detailed explanation of the project is available in the following YouTube video:
-
-Fine-Tuning Multimodal LLMs (LLAVA) for Image Data Parsing: [Link](https://youtu.be/0pd1ZDT--mU?si=dII6mGA0tC0hgj3K)
-
----
-
 ## Repository Structure
 
 ### Notebooks
@@ -48,7 +41,8 @@ Fine-Tuning Multimodal LLMs (LLAVA) for Image Data Parsing: [Link](https://youtu
 
 1. Clone this repository using:
     ```bash
-    git clone https://github.com/Farzad-R/Finetune-LLAVA-NEXT.git
+    git clone https://github.com/dreamboat26/lost-and-found.git
+    cd Finetune-LLAVA-NEXT
     ```
 
 2. Install dependencies from `requirements.txt`:
@@ -66,13 +60,11 @@ Fine-Tuning Multimodal LLMs (LLAVA) for Image Data Parsing: [Link](https://youtu
 
 - [Link to Hyperstack Cloud](https://www.hyperstack.cloud/?utm_source=Influencer&utm_medium=AI%20Round%20Table&utm_campaign=Video%201)
 - [HuggingFace Hub to access the model](https://huggingface.co/Farzad-R/llava-v1.6-mistral-7b-cordv2)
-- A link to a YouTube video will be added here soon to provide further insights and demonstrations.
 - LLAVA-NEXT [models](https://huggingface.co/docs/transformers/en/model_doc/llava_next).
 - LLAVA-NEXT [info](https://llava-vl.github.io/blog/2024-01-30-llava-next/).
 - LLAVA-NEXT [demo](https://huggingface.co/spaces/lmms-lab/LLaVA-NeXT-Interleave-Demo).
 - LLAVA-NEXT GitHub [repository](https://github.com/LLaVA-VL/LLaVA-NeXT).
 - LLAVA 1.5 [demo](https://llava.hliu.cc/).
 - LLAVA 1.5 GitHub [repository](https://github.com/haotian-liu/LLaVA).
-
 
 ---
