@@ -19,8 +19,6 @@
 4. VisionTransformer.pdf: Serves as the `1` column scientific paper. (`11` questions)
 5. SegmentAnything.pdf: Serves as the `2` columns scientific paper. (`14` questions) 
 
-**IMPORTANT NOTE**: llama-index and langchain require different dependencies in their backend which are not compatible with each other. Therefore, to make this comparison happen, I decded to keep both of them along with their techniques in the same project folder, but use two python separate environments. Inevitably, for oing through the project we have to switch between the environments. Therefore, I have provided two requirements file that you can use for setting up the environments (I am using windows 11 64bit).
-
 * To prepare the llama-index environment:
 1. Create a new environment 
 2. Run:
@@ -152,14 +150,8 @@ python src\evaluate_rag_techniques\run_gpt_eval.py
   <img src="images/RAGMASTER.png" alt="UI">
 </div>
 
-## YouTube video:
-- [Link](https://www.youtube.com/watch?v=nze2ZFj7FCk&t=680s)
-
-
 ## Extra read:
 - [GPT model](https://platform.openai.com/docs/models/overview) 
 - [chainlit](https://docs.chainlit.io/get-started/overview)
 - [Langchain](https://python.langchain.com/docs/get_started/quickstart)
 - [Llama-Index](https://docs.llamaindex.ai/en/stable/)
-
-
