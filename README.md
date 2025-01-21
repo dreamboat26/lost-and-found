@@ -46,11 +46,7 @@ Vector databases (vectorDBs) are generated within the `data` folder, facilitatin
 
 To get the project up and running, you'll need to set up your environment and install the necessary dependencies. You can do this in two ways:
 
-### Option 1: Using the Parent Directory Instructions
-
-Follow the instruction on the [parent directory](https://github.com/Farzad-R/LLM-playground/tree/master) to create an environment and install required libraries. 
-
-### Option 2: Installing Dependencies Individually
+### Installing Dependencies Individually
 If you prefer to install the dependencies individually, run the following command:
 
 ```
@@ -74,10 +70,6 @@ In Terminal 2:
 python src\raggpt_app.py
 ```
 5. Chat with your documents.
-
-**YouTube video: **[Link](https://www.youtube.com/watch?v=1FERFfut4Uw&t=3s)
-
-**Slides:** [Link](https://github.com/Farzad-R/LLM-Zero-to-Hundred/blob/master/presentation/presentation.pdf)
 
 Extra read:
 - [GPT model](https://platform.openai.com/docs/models/overview) 
