@@ -1,10 +1,4 @@
-# Author
-
-Farzad Roozitalab
-
-# Title
-
-OptimizationAlgorithms
+# Optimization Algorithms
 
 ## Description
 
